@@ -5,5 +5,7 @@ Inheritance adalah konsep di mana sebuah class (anak/child) dapat mewarisi sifat
 2.  Enkapsulasi
 Enkapsulasi adalah prinsip untuk menyembunyikan data (atribut) agar tidak bisa diakses langsung dari luar kelas.
 Untuk mengakses data, digunakan:
+
 Setter → mengisi atau mengubah nilai atribut.
+
 Getter → mengambil atau membaca nilai atribut.
